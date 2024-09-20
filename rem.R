@@ -1,0 +1,12 @@
+.first="hello"
+a<<-5
+b=6
+c=10
+do="world"
+ls()
+rm(a,do)
+ls()
+a=9
+b=a
+b
+ls()
